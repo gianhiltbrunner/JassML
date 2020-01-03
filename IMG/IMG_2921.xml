@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jass IMG</folder>
+	<filename>IMG_2921.jpeg</filename>
+	<path>/Users/gianhiltbrunner/Desktop/Jass IMG/IMG_2921.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heartsAce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>853</ymin>
+			<xmax>2933</xmax>
+			<ymax>2324</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jass IMG</folder>
+	<filename>IMG_2820.jpeg</filename>
+	<path>/Users/gianhiltbrunner/Desktop/Jass IMG/IMG_2820.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spades7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>662</xmin>
+			<ymin>998</ymin>
+			<xmax>2291</xmax>
+			<ymax>3398</ymax>
+		</bndbox>
+	</object>
+</annotation>

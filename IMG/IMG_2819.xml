@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jass IMG</folder>
+	<filename>IMG_2819.jpeg</filename>
+	<path>/Users/gianhiltbrunner/Desktop/Jass IMG/IMG_2819.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clubsKing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>809</xmin>
+			<ymin>939</ymin>
+			<xmax>2268</xmax>
+			<ymax>3333</ymax>
+		</bndbox>
+	</object>
+</annotation>

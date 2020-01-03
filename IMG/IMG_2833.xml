@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jass IMG</folder>
+	<filename>IMG_2833.jpeg</filename>
+	<path>/Users/gianhiltbrunner/Desktop/Jass IMG/IMG_2833.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spadesJack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>880</ymin>
+			<xmax>2520</xmax>
+			<ymax>3145</ymax>
+		</bndbox>
+	</object>
+</annotation>
